@@ -3,7 +3,7 @@
 
 [build]
   publish = "dist"
-  command = "npm run build --open db-quersies.md"
+  command = "npm run build --open db-queries.md"
 
 [[redirects]]
   from = "/*"
